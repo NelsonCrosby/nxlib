@@ -1,4 +1,7 @@
 
+*.js
+*.d.ts
+
 # Created by https://www.gitignore.io/api/node
 
 ### Node ###
