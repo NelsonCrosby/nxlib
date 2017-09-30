@@ -2,4 +2,4 @@
 
 A small collection of Typescript-ready Javascript utilities.
 
-Documentation: https://nelsoncrosby.github.io/nxlib
+Documentation: http://nelsoncrosby.github.io/nxlib

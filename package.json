@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepublish": "npm run make",
-    "doc": "typedoc --mode modules --out doc src",
+    "doc": "typedoc --mode modules --out docs src",
     "clean-tsc": "rm -rv tmp || exit 0",
     "clean-babel": "rm -v *.js || exit 0",
     "clean-defs": "rm -v *.d.ts || exit 0",
